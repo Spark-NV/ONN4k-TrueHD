@@ -1,0 +1,9 @@
+*.zip
+*.p12
+*.jks
+*.keystore
+src/kernel/*.o
+src/kernel/*.mod*
+src/kernel/.*.cmd
+src/kernel/Module.symvers
+src/kernel/modules.order

@@ -1,0 +1,6 @@
+id=onn_truehd_passthrough
+name=onn 4K Pro TrueHD/Atmos Passthrough
+version=v1.0
+versionCode=1
+author=Spark
+description=Lossless Dolby TrueHD / Atmos bitstreaming over HDMI on the onn 4K Pro (2026, S905X5M). Applies after boot, in memory only.

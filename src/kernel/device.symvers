@@ -1,0 +1,6 @@
+0x4bcc9336	module_layout	vmlinux	EXPORT_SYMBOL	
+0x203fb49d	param_ops_ulong	vmlinux	EXPORT_SYMBOL	
+0x92997ed8	_printk	vmlinux	EXPORT_SYMBOL	
+0xdf7a4c69	__ubsan_handle_cfi_check_fail_abort	vmlinux	EXPORT_SYMBOL	
+0x43b0c9c3	preempt_schedule	vmlinux	EXPORT_SYMBOL	
+0xe2d5255a	strcmp	vmlinux	EXPORT_SYMBOL	
